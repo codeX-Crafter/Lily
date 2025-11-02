@@ -1,7 +1,7 @@
 # ❄️ IoT-Powered Cold Chain Integrity Monitor
 
 A smart system to ensure safe storage & transport of perishables like **vaccines, food & chemicals** using **IoT + Cloud + Alerts**.  
-We monitor real-time conditions, detect tampering, and prevent spoilage — enabling sustainable supply chains.
+We monitor real-time conditions, detect tampering, and prevent spoilage - enabling sustainable supply chains.
 
 ---
 
@@ -15,6 +15,11 @@ We monitor real-time conditions, detect tampering, and prevent spoilage — enab
 - 🤖 Future: AI-based spoilage risk prediction
 
 ---
+
+## Preview
+
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## 🎯 Why It Matters
 

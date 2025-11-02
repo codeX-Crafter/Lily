@@ -1,16 +1,54 @@
-# React + Vite
+# ❄️ IoT-Powered Cold Chain Integrity Monitor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A smart system to ensure safe storage & transport of perishables like **vaccines, food & chemicals** using **IoT + Cloud + Alerts**.  
+We monitor real-time conditions, detect tampering, and prevent spoilage - enabling sustainable supply chains.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Key Highlights
 
-## React Compiler
+- 📊 Live temperature & humidity dashboard
+- 🔔 Instant alerts for deviations & tampering
+- 🚛 Motion & vibration monitoring (rough handling)
+- 🔐 Door-seal breach & light-exposure detection
+- ☁️ Cloud logging + web dashboard
+- 🤖 Future: AI-based spoilage risk prediction
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎯 Why It Matters
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Cold chain failures cause:
+
+- ❌ Wastage of food & vaccines
+- ❌ Losses for logistics & pharma
+- ❌ Environmental & health risks
+
+Our system reduces spoilage, boosts safety, and supports **SDG-9: Sustainable Innovation** & **SDG-12: Responsible Consumption**.
+
+---
+
+## 🧠 Tech Stack
+
+- **Frontend:** React / Tailwind
+- **Backend:** Node.js / Express
+- **DB:** MongoDB / Firebase
+- **IoT:** ESP32 + multi-sensor array
+
+---
+
+## 🛠️ How It Works
+
+`Sensors → ESP32 → Cloud → Dashboard → Alerts`  
+Real-time monitoring + logs + notifications.
+
+---
+
+## 📌 Roadmap
+
+- ✅ Real-time sensor data & alerting
+- ✅ Dashboard & logs
+- 🔄 Predictive spoilage model
+- 🔐 Secure blockchain logs _(future)_
+
+---
